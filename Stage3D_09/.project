@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Stage3D_09</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] com</name>
+			<type>2</type>
+			<location>C:/AS_lib/AGAL/com</location>
+		</link>
+		<link>
+			<name>[source path] matsu4512Lib</name>
+			<type>2</type>
+			<location>C:/AS_lib/matsu4512Lib</location>
+		</link>
+		<link>
+			<name>[source path] src</name>
+			<type>2</type>
+			<location>C:/AS_lib/minimalcomps-master/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
